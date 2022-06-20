@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="500"
+   viewBox="0 0 132.29166 132.29167"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="simple_icon_grey.svg"
+   inkscape:export-filename="C:\Users\ztstr\Desktop\college\cs4500\project\website\zerognetworkwebsite\zerog.network\images\simple_icon.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="-189.66649"
+     inkscape:cy="221.13396"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-164.70832)">
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:44.17069626;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="M 233.98242,1.9140625 A 202.32582,248.08441 0 0 0 31.65625,250 202.32582,248.08441 0 0 0 233.98242,498.08398 202.32582,248.08441 0 0 0 288.4043,488.68555 142.45007,139.16675 0 0 1 227.75195,424.35547 142.50941,174.73975 0 0 1 91.472656,250 142.50941,174.73975 0 0 1 233.98242,75.259766 142.50941,174.73975 0 0 1 375.2793,229.00195 142.45007,139.16675 0 0 1 436.27539,251.18164 202.32582,248.08441 0 0 0 436.30859,250 202.32582,248.08441 0 0 0 233.98242,1.9140625 Z"
+       transform="matrix(0.26458333,0,0,0.26458333,0,164.70832)"
+       id="path822"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.68611699;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 96.594212,231.79773 c -9.522067,0 -19.828422,3.33367 -25.769986,10.00171 -5.007517,5.60426 -7.510902,12.19434 -7.510902,19.77047 0,5.52644 1.349072,10.67677 4.047427,15.45077 2.724294,4.77402 6.408854,8.45857 11.053132,11.05315 4.670223,2.56861 9.975857,3.85305 15.917422,3.85305 5.552371,0 10.391265,-1.18119 14.516625,-3.54223 3.33925,-1.91117 6.17661,-4.51997 8.5129,-7.82509 v 8.73661 h 7.90048 v -26.1269 H 99.947935 v 8.51964 h 10.573915 c -1.58268,3.37291 -3.67137,5.85112 -6.26593,7.43382 -2.56863,1.58268 -5.734376,2.3735 -9.4965,2.3735 -5.785889,0 -10.650785,-1.91994 -14.594529,-5.7599 -3.943741,-3.83996 -5.915725,-8.52269 -5.915725,-14.04912 0,-5.34481 1.894747,-9.88565 5.682819,-13.62185 3.814016,-3.73617 6.873157,-6.46196 16.7393,-6.46196 5.957275,0 14.457745,4.56683 16.968855,10.27901 h 10.94591 c -1.15546,-5.18105 -4.2997,-9.42073 -8.58413,-13.16526 -4.28444,-3.74452 -9.75018,-6.58238 -19.407708,-6.91942 z"
+       id="rect4900"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccscccccccccscscsccsc" />
+  </g>
+</svg>

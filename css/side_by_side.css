@@ -1,0 +1,27 @@
+.side-by-side .element {
+  width: 300px;
+  margin: 2rem;
+}
+
+.side-by-side .element img {
+  display: block;
+
+  width: 7em;
+  max-width: none;
+  height: 7em;
+  max-height: none;
+
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.side-by-side .element p {
+  text-align: center;
+}
+
+.side-by-side {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

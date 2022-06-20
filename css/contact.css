@@ -1,0 +1,12 @@
+#contacts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#contacts a {
+  color: #FFFFFF;
+  text-decoration: none;
+
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+#header {
+  background-color: #332277;
+}
+
+#nav::after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+#nav ul {
+  list-style: none;
+}
+
+#nav ul li {
+  display: inline-block;
+}
+
+#nav a {
+  display: inline-block;
+  padding: 0.5em 1em;
+
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+#nav a img {
+  display: inline;
+  max-height: 0.8em;
+  vertical-align: baseline;
+}
+
+#nav a.current {
+  color: #000000;
+  background-color: #FFFFFF;
+}
+
+#nav a:not(.current):hover {
+  background-color: #6644BB;
+}

@@ -1,0 +1,106 @@
+#main .section > p {
+  text-align: justify;
+}
+
+#main .section > p ~ h2,
+#main .section > p ~ h3 {
+  margin-top: 2rem;
+}
+
+#main .background a {
+  color: #BBBBFF;
+}
+
+#main .background a:hover {
+  color: #EECCFF;
+}
+
+#main .section {
+  padding: 2rem 0rem;
+}
+
+#main .section:not(.background) ~ .section {
+  padding-top: 0;
+}
+
+#main .section:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+#main .section > * {
+  margin: 1rem;
+}
+
+#main .description {
+  color:grey;
+  font-size: medium;
+}
+
+#main img.left,
+#main img.right {
+  max-width: 33%;
+  max-height: 500px;
+
+  margin: 1rem;
+}
+
+#main img.collide-bottom{
+  margin-bottom: -2rem;
+}
+
+#main div.video.yt {
+  position: relative;
+
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+#main .video.yt > iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 100%;
+}
+
+#main .background {
+  position: relative;
+}
+
+#main .background.image {
+  background-position: center center, center center;
+  background-size: cover, cover;
+
+  color: #FFFFFF;
+  background-color: #000000;
+}
+
+#main .background.image.parallax {
+  background-attachment: fixed, fixed;
+}
+
+
+#main ul.document-list {
+  list-style: none;
+  text-align: center;
+}
+
+#main ul.document-list > li {
+  display: inline-block;
+}
+
+#main ul.document-list a.button {
+  padding: 0.5em 2em;
+  color: #FFFFFF;
+  background-color: #442299;
+  text-decoration: none;
+
+  transition: background-color 0.2s;
+}
+
+#main ul.document-list a.button:hover {
+  background-color: #6644BB;
+}
